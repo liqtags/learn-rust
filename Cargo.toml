@@ -1,0 +1,12 @@
+[package]
+name = "rust_learning"
+version = "0.1.0"
+edition = "2021"
+
+[[example]]
+name = "01_variables"
+path = "examples/01_variables.rs"
+
+[[example]]
+name = "02_control_flow"
+path = "examples/02_control_flow.rs" 
